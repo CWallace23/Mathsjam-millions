@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>One hundred million MathsJam talks</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <p>In this talk I will be </p>
+        <p id="talkCat">Image Text</p>
+    <p>...based on an idea I found...</p>
+          <p id="talkSou">Image Text</p>
+    <p>It's mostly...</p>
+                <p id="talkMat">Image Text</p>
+
+    <button id="refresh-button">New Talk</button>
+
+
+    <script src="script.js"></script>
+</body>
+</html>
