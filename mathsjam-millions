@@ -7,12 +7,12 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <p>In this talk I will be </p>
-        <p id="talkCat">Image Text</p>
-    <p>...based on an idea I found...</p>
-          <p id="talkSou">Image Text</p>
-    <p>It's mostly...</p>
-                <p id="talkMat">Image Text</p>
+    <p>In this talk I will be
+        <generator-bit id="talkCat">Image Text</generator-bit>, </p>
+    <p>    based on an idea I found
+        <generator-bit id="talkSou">Image Text</generator-bit>. </p>
+    <p>    It's mostly
+        <generator-bit id="talkMat">Image Text</generator-bit></p>
 
     <button id="refresh-button">New Talk</button>
 
